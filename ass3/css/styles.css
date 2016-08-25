@@ -1,0 +1,17 @@
+body {
+	background-color: aa77aa;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+
+#menu-item-description {
+	background-color: 559955;
+}
+
+.navbar-brand {
+	color: ababa0px;
+}
